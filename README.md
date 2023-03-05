@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MujuniEli
+- 👋 Hi, my name is Elijah Mujuni from kampala - Uganda 🇺🇬
 - 👀 I’m interested in JS Frame works and backend JS technology(Node)
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on frontend projects
