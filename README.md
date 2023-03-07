@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Elijah Mujuni from kampala - Uganda <img src="https://res.cloudinary.com/zona/image/upload/v1678167064/Waving-Uganda-Flag_dpj5lj.png" width="10" height="5">
+- 👋 Hi, my name is Elijah Mujuni from kampala - Uganda <img src="https://res.cloudinary.com/zona/image/upload/v1678167064/Waving-Uganda-Flag_dpj5lj.png" width="50" height="25">
 - 👀 I’m interested in JS Frame works and backend JS technology(Node)
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on frontend projects
